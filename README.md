@@ -16,5 +16,6 @@ This project demonstrates the design of a screwdriver using SOLIDWORKS.  The mod
 - Feature Tree Management
 
 ## Project Preview
-<img width="688" height="431" alt="image" src="https://github.com/user-attachments/assets/41cdf742-1853-4550-9ac7-2272451f92c7" />
+<img width="793" height="433" alt="image" src="https://github.com/user-attachments/assets/5b9ecae1-cfb5-4524-8f08-ce2e8178667b" />
+
 
